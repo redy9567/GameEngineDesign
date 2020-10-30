@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rooster_1.0.1.obj-a3c82e955c42675cb2e7cb75719d6df0.mesh"
+
+[deps]
+
+files=[ "res://.import/rooster_1.0.1.obj-a3c82e955c42675cb2e7cb75719d6df0.mesh" ]
+
+source_file="res://rooster_1.0.1.obj"
+dest_files=[ "res://.import/rooster_1.0.1.obj-a3c82e955c42675cb2e7cb75719d6df0.mesh", "res://.import/rooster_1.0.1.obj-a3c82e955c42675cb2e7cb75719d6df0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
